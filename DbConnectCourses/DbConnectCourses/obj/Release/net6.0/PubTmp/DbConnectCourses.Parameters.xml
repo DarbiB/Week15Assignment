@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="DbConnectCourses20230416211112" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\dlnew\\OneDrive\\School\\Spring\ 2023\\C\#\ Programming\ II_CMSC\ 2204\\Week\ 11\\DbConnectCourses\\DbConnectCourses\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

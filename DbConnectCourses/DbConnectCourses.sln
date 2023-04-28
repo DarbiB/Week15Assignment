@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbConnectCourses", "DbConnectCourses\DbConnectCourses.csproj", "{3A39F6DC-FE19-42AB-8623-DD52A8BF4E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnectCoursesTests", "DbConnectCoursesTests\DbConnectCoursesTests.csproj", "{ED8AD814-D8C4-4142-9B32-C22352A6D8A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A39F6DC-FE19-42AB-8623-DD52A8BF4E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A39F6DC-FE19-42AB-8623-DD52A8BF4E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A39F6DC-FE19-42AB-8623-DD52A8BF4E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A39F6DC-FE19-42AB-8623-DD52A8BF4E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8AD814-D8C4-4142-9B32-C22352A6D8A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8AD814-D8C4-4142-9B32-C22352A6D8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8AD814-D8C4-4142-9B32-C22352A6D8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8AD814-D8C4-4142-9B32-C22352A6D8A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0716540-97B5-4BCC-91D5-B7E463930F6D}
+	EndGlobalSection
+EndGlobal
